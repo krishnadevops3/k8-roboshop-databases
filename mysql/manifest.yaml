@@ -62,7 +62,7 @@ spec:
     spec:
       containers:
       - name: mysql
-        image: joindevops/mysql:v1
+        image: krishnachaitanyadevops1/mysql:v1
         volumeMounts:
         - name: mysql
           mountPath: /data/db

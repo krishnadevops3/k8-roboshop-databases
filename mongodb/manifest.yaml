@@ -52,7 +52,7 @@ spec:
     spec:
       containers:
       - name: mongodb
-        image: joindevops/mongodb:v1
+        image: krishnachaitanyadevops1/mongodb:v1
         volumeMounts:
         - name: mongodb
           mountPath: /data/db
@@ -77,7 +77,7 @@ spec:
 
 
 
-          
+
 
 
 
